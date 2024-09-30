@@ -31,6 +31,9 @@
             Console.WriteLine(myString+anotherString);//concatenate
             Console.WriteLine(myString+myChar); // Concatenates the string with the char
 
+            const string bestTeacher = "Mr Naylor";
+           
+
         }
      
 
